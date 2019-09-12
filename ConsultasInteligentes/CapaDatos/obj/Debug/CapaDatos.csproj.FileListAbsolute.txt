@@ -1,0 +1,59 @@
+C:\Users\sindy\source\repos\ConsultasInteligentes\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\sindy\source\repos\ConsultasInteligentes\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\sindy\source\repos\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\sindy\source\repos\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\sindy\source\repos\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\sindy\source\repos\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\sindy\Desktop\ConsultasInteligentes\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\sindy\Desktop\ConsultasInteligentes\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\sindy\Desktop\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\sindy\Desktop\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\sindy\Desktop\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\sindy\Desktop\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\ISIS\Downloads\ConsultasInteligentes\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ISIS\Downloads\ConsultasInteligentes\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ISIS\Downloads\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\ISIS\Downloads\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ISIS\Downloads\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ISIS\Downloads\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Paula V\Documents\ConsultasInteligentes\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Paula V\Documents\ConsultasInteligentes\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Paula V\Documents\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Paula V\Documents\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Paula V\Documents\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Paula V\Documents\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\diego\Desktop\DLL Terminada\ConsultasInteligentes\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\diego\Desktop\DLL Terminada\ConsultasInteligentes\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\diego\Desktop\DLL Terminada\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\DLL Terminada\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\DLL Terminada\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\diego\Desktop\DLL Terminada\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\diego\Desktop\DLLTerminada\ConsultasInteligentes\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\diego\Desktop\DLLTerminada\ConsultasInteligentes\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\diego\Desktop\DLLTerminada\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\DLLTerminada\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\DLLTerminada\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\diego\Desktop\DLLTerminada\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Paula V\Desktop\ConsultasInteligentes\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Paula V\Desktop\ConsultasInteligentes\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Paula V\Desktop\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Paula V\Desktop\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Paula V\Desktop\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\diego\Desktop\Final\ConsultasInteligentes\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\diego\Desktop\Final\ConsultasInteligentes\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\diego\Desktop\Final\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\Final\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Final\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\diego\Desktop\Final\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\sindy\OneDrive\Documents\ANDERSON\OCTAVO SEMESTRE\ARQUITECTURA DE COMPUTADORAS 2\ConsultasInteligentes\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\sindy\OneDrive\Documents\ANDERSON\OCTAVO SEMESTRE\ARQUITECTURA DE COMPUTADORAS 2\ConsultasInteligentes\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\sindy\OneDrive\Documents\ANDERSON\OCTAVO SEMESTRE\ARQUITECTURA DE COMPUTADORAS 2\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\sindy\OneDrive\Documents\ANDERSON\OCTAVO SEMESTRE\ARQUITECTURA DE COMPUTADORAS 2\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\sindy\OneDrive\Documents\ANDERSON\OCTAVO SEMESTRE\ARQUITECTURA DE COMPUTADORAS 2\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\sindy\OneDrive\Documents\ANDERSON\OCTAVO SEMESTRE\ARQUITECTURA DE COMPUTADORAS 2\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\ISIS\Desktop\ConsultasInteligentes\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ISIS\Desktop\ConsultasInteligentes\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ISIS\Desktop\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\ISIS\Desktop\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ISIS\Desktop\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ISIS\Desktop\ConsultasInteligentes\CapaDatos\obj\Debug\CapaDatos.pdb

@@ -1,0 +1,90 @@
+C:\Users\sindy\source\repos\ConsultasInteligentes\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\sindy\source\repos\ConsultasInteligentes\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\sindy\source\repos\ConsultasInteligentes\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\sindy\source\repos\ConsultasInteligentes\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\sindy\source\repos\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\sindy\source\repos\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\sindy\source\repos\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\sindy\source\repos\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\sindy\source\repos\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\sindy\Desktop\ConsultasInteligentes\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\sindy\Desktop\ConsultasInteligentes\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\sindy\Desktop\ConsultasInteligentes\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\sindy\Desktop\ConsultasInteligentes\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\sindy\Desktop\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\sindy\Desktop\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\sindy\Desktop\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\sindy\Desktop\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\sindy\Desktop\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\ISIS\Downloads\ConsultasInteligentes\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\ISIS\Downloads\ConsultasInteligentes\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\ISIS\Downloads\ConsultasInteligentes\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\ISIS\Downloads\ConsultasInteligentes\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\ISIS\Downloads\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\ISIS\Downloads\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\ISIS\Downloads\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\ISIS\Downloads\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\ISIS\Downloads\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Paula V\Documents\ConsultasInteligentes\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Paula V\Documents\ConsultasInteligentes\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Paula V\Documents\ConsultasInteligentes\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Paula V\Documents\ConsultasInteligentes\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Paula V\Documents\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Paula V\Documents\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Paula V\Documents\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Paula V\Documents\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Paula V\Documents\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\diego\Desktop\DLL Terminada\ConsultasInteligentes\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\diego\Desktop\DLL Terminada\ConsultasInteligentes\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\diego\Desktop\DLL Terminada\ConsultasInteligentes\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\diego\Desktop\DLL Terminada\ConsultasInteligentes\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\diego\Desktop\DLL Terminada\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\DLL Terminada\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\DLL Terminada\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\diego\Desktop\DLL Terminada\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\diego\Desktop\DLL Terminada\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\diego\Desktop\DLLTerminada\ConsultasInteligentes\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\diego\Desktop\DLLTerminada\ConsultasInteligentes\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\diego\Desktop\DLLTerminada\ConsultasInteligentes\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\diego\Desktop\DLLTerminada\ConsultasInteligentes\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\diego\Desktop\DLLTerminada\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\DLLTerminada\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\DLLTerminada\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\diego\Desktop\DLLTerminada\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\diego\Desktop\DLLTerminada\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Paula V\Desktop\ConsultasInteligentes\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Paula V\Desktop\ConsultasInteligentes\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Paula V\Desktop\ConsultasInteligentes\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Paula V\Desktop\ConsultasInteligentes\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Paula V\Desktop\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Paula V\Desktop\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Paula V\Desktop\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Paula V\Desktop\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Paula V\Desktop\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\diego\Desktop\Final\ConsultasInteligentes\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\diego\Desktop\Final\ConsultasInteligentes\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\diego\Desktop\Final\ConsultasInteligentes\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\diego\Desktop\Final\ConsultasInteligentes\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\diego\Desktop\Final\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\Final\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Final\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\diego\Desktop\Final\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\diego\Desktop\Final\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\sindy\OneDrive\Documents\ANDERSON\OCTAVO SEMESTRE\ARQUITECTURA DE COMPUTADORAS 2\ConsultasInteligentes\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\sindy\OneDrive\Documents\ANDERSON\OCTAVO SEMESTRE\ARQUITECTURA DE COMPUTADORAS 2\ConsultasInteligentes\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\sindy\OneDrive\Documents\ANDERSON\OCTAVO SEMESTRE\ARQUITECTURA DE COMPUTADORAS 2\ConsultasInteligentes\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\sindy\OneDrive\Documents\ANDERSON\OCTAVO SEMESTRE\ARQUITECTURA DE COMPUTADORAS 2\ConsultasInteligentes\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\sindy\OneDrive\Documents\ANDERSON\OCTAVO SEMESTRE\ARQUITECTURA DE COMPUTADORAS 2\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\sindy\OneDrive\Documents\ANDERSON\OCTAVO SEMESTRE\ARQUITECTURA DE COMPUTADORAS 2\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\sindy\OneDrive\Documents\ANDERSON\OCTAVO SEMESTRE\ARQUITECTURA DE COMPUTADORAS 2\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\sindy\OneDrive\Documents\ANDERSON\OCTAVO SEMESTRE\ARQUITECTURA DE COMPUTADORAS 2\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\sindy\OneDrive\Documents\ANDERSON\OCTAVO SEMESTRE\ARQUITECTURA DE COMPUTADORAS 2\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\ISIS\Desktop\ConsultasInteligentes\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\ISIS\Desktop\ConsultasInteligentes\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\ISIS\Desktop\ConsultasInteligentes\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\ISIS\Desktop\ConsultasInteligentes\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\ISIS\Desktop\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\ISIS\Desktop\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\ISIS\Desktop\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\ISIS\Desktop\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\ISIS\Desktop\ConsultasInteligentes\CapaLogica\obj\Debug\CapaLogica.pdb
